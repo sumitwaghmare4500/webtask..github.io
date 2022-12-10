@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    border: 2px solid blue;
+}
+.col{
+    border: 2px solid black;
+}
+.orange{
+    background-color: orangered;
+}
+.pink{
+    background: palegreen;
+}
+.blue{
+    background-color: skyblue;
+}
+.green{
+    background: palevioletred;
+}
